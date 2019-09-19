@@ -247,7 +247,7 @@ ul {
 
 .b-blue {
   margin-bottom: -2px;
-  background-image: url(../img/first-bg.png);
+  background-image: url(../img/first-bg1.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -311,9 +311,9 @@ ul {
 
 .home-content h1 em {
 	margin-right: 20px;
-	font-size: 80px;
+	font-size: 50px;
 	font-style: normal;
-	font-weight: 800;
+	font-weight: 600;
 }
 
 .home-content .home-box-content {
@@ -1136,4 +1136,20 @@ body.lb-disable-scrolling {
 
 .owl-carousel .owl-nav {
   display: none;
+}
+
+.profile-image {
+  height: 196px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.company-image {
+  height: 45%;
+  width: 45%;
+  border-radius: 30%;
+}
+
+.company-info-text {
+  color: aqua;
 }
